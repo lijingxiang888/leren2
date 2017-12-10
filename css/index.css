@@ -1021,7 +1021,7 @@ body {
 	position: fixed;
 	width: 50px;
 	left: 275px;
-	top: 250px;
+	top: 70px;
 	background-color: #b1aaaa;
 }
 .fixed li {
@@ -1042,7 +1042,7 @@ body {
 	width: 50px;
 	height: 45px;
 	left: 275px;
-	top: 756px;
+	top: 576px;
 	padding-top: 10px;
 	font-size: 14px;
 	font-weight: bold;
